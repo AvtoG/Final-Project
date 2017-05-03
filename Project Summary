@@ -9,12 +9,12 @@ different intervals in order to display words in the air! The blinking of the LE
 speed of the fan, which creates an illusion called the Persistence of Vision, or POV for short!
 
 How I did it
-I found code from a project posted online which suited my needs for creating this machine. Then I collected 
-my materials which consisted of 5 LED’s, 5 Resistors, a Particle, a battery for the Particle, a propeller, 
+I found code from a project posted online which suited my needs for creating this machine (https://diyhacking.com/arduino-pov-display/).
+Then I collected my materials which consisted of 5 LED’s, 5 Resistors, a Particle, a battery for the Particle, a propeller, 
 a motor, LOTS of wires, glue, and the soldering machine! Then I created the LED matrix on a bread board in 
 order to make sure it worked; However I couldn’t confirm it working by shaking it back and forth because 
 the bread board connections were too flimsy. This meant I had to take a leap into making the circuit on a 
-more stable perf board and attach it on a propeller to make sure it worked. I looked at tutorials on YouTube 
+more stable perf board and attach it on a propeller to make sure it worked. I looked at tutorials on YouTube (https://www.youtube.com/watch?v=f95i88OSWB4)
 on soldering and transferred the schematic from the breadboard to a perfboard through soldering. This was a 
 very tedious process which I will talk about later. After creating the LED board, I had to bring power to 
 it so I attached a battery on the back with appropriate heads to make the Particle work. It also acts as 
